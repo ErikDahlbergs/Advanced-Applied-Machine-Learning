@@ -1,0 +1,1 @@
+Did not make a big difference. I'll try and use deeplabV3 to train the last classifier. 

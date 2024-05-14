@@ -1,0 +1,11 @@
+[2024-05-07 19:10:39,831 | INFO | infrastructure.py:271 ] Loading metadata...
+[2024-05-07 19:10:39,833 | INFO | infrastructure.py:279 ] Initializing model...
+/home/kurs11/.conda/envs/edap30/lib/python3.11/site-packages/torchvision/models/_utils.py:135: UserWarning: Using 'weights' as positional parameter(s) is deprecated since 0.13 and may be removed in the future. Please use keyword parameter(s) instead.
+  warnings.warn(
+[2024-05-07 19:10:41,006 | INFO | infrastructure.py:286 ] Loading weights...
+[2024-05-07 19:10:42,533 | INFO | infrastructure.py:290 ] Loading metrics...
+[2024-05-07 19:10:42,536 | INFO | infrastructure.py:293 ] Loading complete.
+[2024-05-07 19:10:42,542 | INFO | data.py:68 ] Found 864 images
+  0%|          | 0/27 [00:00<?, ?it/s]/home/kurs11/.conda/envs/edap30/lib/python3.11/site-packages/torch/_inductor/compile_fx.py:124: UserWarning: TensorFloat32 tensor cores for float32 matrix multiplication available but not enabled. Consider setting `torch.set_float32_matmul_precision('high')` for better performance.
+  warnings.warn(
+  4%|▎         | 1/27 [00:19<08:32, 19.72s/it] 15%|█▍        | 4/27 [00:19<01:26,  3.77s/it] 26%|██▌       | 7/27 [00:20<00:36,  1.82s/it] 33%|███▎      | 9/27 [00:20<00:22,  1.25s/it] 41%|████      | 11/27 [00:20<00:14,  1.10it/s] 44%|████▍     | 12/27 [00:21<00:11,  1.29it/s] 48%|████▊     | 13/27 [00:21<00:09,  1.55it/s] 52%|█████▏    | 14/27 [00:21<00:06,  1.91it/s] 56%|█████▌    | 15/27 [00:21<00:05,  2.38it/s] 59%|█████▉    | 16/27 [00:21<00:03,  2.91it/s] 63%|██████▎   | 17/27 [00:21<00:02,  3.45it/s] 67%|██████▋   | 18/27 [00:21<00:02,  4.07it/s] 70%|███████   | 19/27 [00:22<00:01,  4.61it/s] 74%|███████▍  | 20/27 [00:22<00:01,  5.22it/s] 78%|███████▊  | 21/27 [00:22<00:01,  5.49it/s] 81%|████████▏ | 22/27 [00:22<00:00,  5.99it/s] 85%|████████▌ | 23/27 [00:22<00:00,  6.58it/s] 89%|████████▉ | 24/27 [00:22<00:00,  7.31it/s] 93%|█████████▎| 25/27 [00:22<00:00,  7.38it/s] 96%|█████████▋| 26/27 [00:23<00:00,  7.44it/s]100%|██████████| 27/27 [00:23<00:00,  7.59it/s]100%|██████████| 27/27 [00:23<00:00,  1.17it/s]
